@@ -20,11 +20,11 @@ REFERER = "https://www.ewrc-results.com/"
 
 # ✅ Base points (confirmed latest)
 BASE_POINTS = {
-    'Elfyn Evans': 289,
-    'Sébastien Ogier': 284,
-    'Kalle Rovanperä': 260,
-    'Ott Tänak': 238,
-    'Thierry Neuville': 176,
+    'Elfyn Evans': 272,
+    'Sébastien Ogier': 269,
+    'Kalle Rovanperä': 248,
+    'Ott Tänak': 213,
+    'Thierry Neuville': 166,
 }
 
 # Normalize names
