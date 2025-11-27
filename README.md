@@ -1,8 +1,9 @@
-# WRC Dashboard – Final Version
+# WRC Dashboard – Multi-Source + Countdown
 
-- Opraveno přičítání bodů (bez kumulace, normalizace jmen).
-- Přidáno vysvětlení důvodů selhání scraping přímo v UI.
-- Fallback CSV upload z eWRC.
-- ETA predikce + simulace bodů.
+Funkce:
+- Volba zdroje: eWRC / WRC.com / CSV upload.
+- ETA predikce + odpočet do další aktualizace.
+- Simulace bodů šampionátu (Evans 272, Ogier 269, Rovanperä 248, Tänak 213, Neuville 166).
+- Vysvětlení důvodů selhání scraping.
 
 Spuštění na Streamlit Cloud: nahraj `app.py` + `requirements.txt` do GitHubu a deploy.
